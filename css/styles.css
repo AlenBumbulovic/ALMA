@@ -1,0 +1,384 @@
+#navbar{
+	border-bottom: 0px;
+	background-color: white;
+	position: fixed;
+	width: 100%;
+}
+
+#alma-brand{
+	font-size: 22px;
+	font-family:sans-serif;
+}
+
+#alma-first{
+	text-align: center;
+	vertical-align: center;
+	margin-top: 200px;
+	margin-bottom: 250px;
+}
+
+.alma-title{
+	text-transform: bold;
+	color: black;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.alma-text{
+	color: black;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+#shop-button{
+	background-color: #993399;
+	color: white;
+}
+
+#text-div{
+	background-color: #181818;
+	width: 100%;
+	height: 150px;
+
+}
+
+#text-div-2{
+	text-align: center;
+	vertical-align: center;
+}
+
+#text1{
+	color: white;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+#text2{
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+
+}
+#line{
+	
+    margin-top: 50px;
+}
+
+#photo-title{
+	text-align: center;
+	color: black;
+	font-size: 19px;
+	margin-top: 80px;
+}
+
+#photo-logo{
+	
+	width: 90px;
+	height: 90px;
+	margin-top: 45px;
+	vertical-align: bottom;
+	margin-bottom: 55px;
+}
+
+#photo1{
+	text-align: center;
+}
+
+#products1{
+	display: inline-block;
+	
+}
+
+
+
+
+#price1{
+	margin-left: 25px;
+}
+
+#slika1{
+float: left;
+padding-left: 5px;
+
+}
+
+
+
+#slika2{
+	float: left;
+	margin-top: 3px;
+	padding-right: 13px;
+
+}
+
+#price2{
+	margin-left: 25px;
+}
+
+#popust{
+	position: absolute;
+	
+	top: 1030px;
+	right: 520px;
+}
+
+#save{
+	position: absolute;
+	top: 1028px;
+	right: 520px;
+
+}
+
+#slike3{
+	float: right;
+	margin-top: 20px;
+}
+
+#price3{
+	margin-left: 0px;
+	margin-top: 20px;
+}
+
+#slika-3{
+	text-align: center;
+	
+}
+
+#pozadina1{
+	background-color: #F0F0F0;
+	width: 250px;
+	height: 210px;
+	text-align: center;
+	padding-right: 13px;
+}
+
+#slika3b{
+	background-color: #F0F0F0;
+	width: 250px;
+	height: 210px;
+	margin-top: 30px;
+	text-align:center;
+	
+}
+
+#products2{
+	display: inline-block;
+}
+
+
+#photo6{
+	float: left;
+}
+
+#slika6{
+	padding-left: 13px;
+}
+
+#photo5{
+	float: left;
+	background-color: #F0F0F0;
+	width: 338px;
+	height: 450px;
+	margin-top: 19px;
+	text-align: center;
+	margin-left: 15px;
+	
+}
+
+#slika5{
+	margin-top: 25px;
+	margin-left: 15px;
+}
+
+#price5{
+	margin-top: 45px;
+	margin-left: 0px;
+	float: left;
+}
+
+#popust5{
+	position: absolute;
+	
+	top: 1600px;
+	right: 880px;
+}
+
+#save5{
+	position: absolute;
+	top: 1596px;
+	right: 880px;
+
+}
+
+#price6{
+	margin-left: 35px;
+}
+
+#catalogue{
+	float: right;
+	text-align: center;
+	border-style: solid;
+    border-width: 1px;
+    border-color: #F0F0F0;
+    width: 252px;
+	height: 450px;
+	margin-top: 19px;
+	vertical-align: center;
+}
+
+#catalogue-button{
+	background-color: #993399;
+	color: white;
+
+}
+
+#catalogue-span{
+	display: inline-block;
+  vertical-align: middle;
+  line-height: normal;  
+ 	 margin-top: 150px;
+}
+
+p{
+	font-size: 16px;
+}
+
+#video-div{
+	background-color: #B8B8B8 ;
+	width: 100%;
+	height: 600px;
+	text-align: center;
+}
+
+#video{
+	margin-top: 150px;
+}
+
+
+#baby-first{
+	width: 100%;
+	height: 500px;
+	display: inline;
+	text-align: center;
+}
+
+#beba-slika{
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin-left: 120px;
+}
+
+#beba-text{
+	float: right;
+	display: inline-block;
+	text-align: center;
+	margin-right: 190px;
+	margin-top: 100px;
+}
+
+#baby-button{
+	background-color: #993399;
+	color: white;
+}
+
+#baby-hands{
+	background-color: white;
+	width: 100%;
+	height: 700px;
+	background-repeat: no-repeat;
+	margin-top: 200px;
+
+	
+}
+
+#baby2-text{
+	text-align: center;
+	margin-top: 210px;
+	margin-right: 350px;
+}
+
+#boy{
+	width: 100%;
+	height: 700px;
+}
+
+#boy-text{
+	text-align: center;
+	margin-top: 230px;
+	margin-left: 100px;
+	float: left;
+}
+
+#boy-picture{
+	text-align: center;
+	float: right;
+	margin-right: 100px;
+	margin-top: 100px;
+}
+
+#search-div{
+	width: 100%;
+	height: 200px;
+	text-align: center;
+	background-color: #B8B8B8;
+}
+
+#subscribe-form{
+	height: 60px;
+	width: 400px;
+	background-color: white;
+	margin-top: 70px;
+	margin-left: 400px;
+
+}
+
+#search-input{
+	border-style: none;
+	margin-top: 8px;
+	float: left;
+	margin-left: 3px;
+	height: 45px;
+	width: 200px;
+
+}
+
+#baby-button1{
+	background-color: #993399;
+	color: white;
+	float: right;
+	margin-right: 3px;
+	margin-top: 8px;
+	height: 45px;
+}
+
+#footer{
+	text-align: center;
+	width: 100%;
+	height: 300px;
+	background-color: #181818;
+	color: white;
+	margin-top: 0px;
+}
+
+#about{
+	float: left;
+	margin-left: 80px;
+	text-align: center;
+}
+
+#contact{
+	float: left;
+	margin-left: 100px;
+}
+
+#products{
+	float: right;
+	margin-right: 200px;
+}
+
+#features{
+	float: right;
+	margin-right: 100px;
+}
+
